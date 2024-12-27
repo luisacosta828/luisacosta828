@@ -23,4 +23,4 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 [Twitter](https://x.com/xbyteslean)
 [Email](mailto:luisacosta828@gmail.com)
-[LinkedIn](www.linkedin.com/in/luis-acosta-8b33b223a)
+[LinkedIn](https://www.linkedin.com/in/luis-acosta828/)
