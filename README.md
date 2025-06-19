@@ -19,7 +19,8 @@ I'm a passionate **Software Engineer**, working as **Backend Developer** and **D
 
 - **[plnim](https://github.com/luisacosta828/plnim):** Procedural Language handler for executing Nim code inside PostgreSQL. Bringing modern language power to Postgres functions and procedures.
 - **[pgxcrown](https://github.com/luisacosta828/pgxcrown):** Framework for building PostgreSQL extensions safely and efficiently in Nim.
-- Check my GitHub for more open source contributions and side projects!
+
+Check my GitHub for more open source contributions and side projects!
 
 ## What I Love
 
