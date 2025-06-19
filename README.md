@@ -1,17 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Luis Acosta
 
 ## About Me
-I'm a passionate backend developer and database administrator with 6 years of experience. I'm currently focused on contributing to open-source projects and developing my own libraries.
 
-## Skills
-*  Backend Development: Python, Powershell and Nim
-*  Databases: PostgreSQL, OracleSQL, SQL Server, Azure SQL and Redis
+I'm a passionate **Software Engineer**, working as **Backend Developer** and **Database Administrator** with a strong focus on building robust, scalable, and efficient systems. I specialize in:
+
+- **Backend Development:** Designing and implementing clean, reliable APIs and backend services.
+- **Database Engineering:** Architecting and managing high-performance PostgreSQL databases.
+- **Systems Programming:** Building tools and extensions in Nim and C, bringing modern language features to classic infrastructure.
+
+## Technologies & Tools
+
+- **Languages:** Nim, Python, C, SQL (PostgreSQL)
+- **Databases:** PostgreSQL (tuning, extension development, administration)
+- **Frameworks:** Custom tooling, scripting, and API development
+- **Platforms:** Linux, Windows, WSL
 
 ## Projects
-### [pgxcrown](https://github.com/luisacosta828/pgxcrown)
-Write PostgreSQL functions and extensions in Nim. This project aims to simplify the process of extending PostgreSQL with Nim language.
-### [plnim](https://github.com/luisacosta828/plnim)
-Built on top of [pgxcrown](https://github.com/luisacosta828/pgxcrown), plnim allows you to use Nim for defining the body of your PostgreSQL functions. It enhances PostgreSQL's capabilities by leveraging Nim's performance and simplicity.
+
+- **[plnim](https://github.com/luisacosta828/plnim):** Procedural Language handler for executing Nim code inside PostgreSQL. Bringing modern language power to Postgres functions and procedures.
+- **[pgxcrown](https://github.com/luisacosta828/pgxcrown):** Framework for building PostgreSQL extensions safely and efficiently in Nim.
+- Check my GitHub for more open source contributions and side projects!
+
+## What I Love
+
+- Building and optimizing backend systems
+- Database internals, query performance, and extensibility
+- Language design, compiler technology, and clean code
+- Sharing knowledge and collaborating with the developer community
 
 ## GitHub Stats
 
@@ -24,3 +39,7 @@ Feel free to explore my repositories and reach out if you have any questions or 
 [Twitter](https://x.com/xbyteslean)
 [Email](mailto:luisacosta828@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/luis-acosta828/)
+
+---
+
+_“Great software is built on strong fundamentals, curiosity, and a willingness to learn every day.”_
