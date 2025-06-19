@@ -5,13 +5,13 @@
 I'm a passionate **Software Engineer**, working as **Backend Developer** and **Database Administrator** with a strong focus on building robust, scalable, and efficient systems. I specialize in:
 
 - **Backend Development:** Designing and implementing clean, reliable APIs and backend services.
-- **Database Engineering:** Architecting and managing high-performance PostgreSQL databases.
+- **Database Engineering:** Architecting and managing high-performance databases.
 - **Systems Programming:** Building tools and extensions in Nim and C, bringing modern language features to classic infrastructure.
 
 ## Technologies & Tools
 
 - **Languages:** Nim, Python, C, SQL (PostgreSQL)
-- **Databases:** PostgreSQL (tuning, extension development, administration)
+- **Databases:** PostgreSQL, Azure SQL, Redis, Oracle, SQL Server (tuning, extension development, administration)
 - **Frameworks:** Custom tooling, scripting, and API development
 - **Platforms:** Linux, Windows, WSL
 
